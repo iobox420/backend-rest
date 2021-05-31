@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="152e4f66-614e-4f8c-92cc-0853e91af1f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4c46c160-4794-468a-9189-d7af4bd3a492" />
+  </component>
+  <component name="ProjectId" id="1sy3v4OMExEuLRG6kaVJ3Tr9E9y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="152e4f66-614e-4f8c-92cc-0853e91af1f0" name="Default Changelist" comment="" />
+      <created>1621831228271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621831228271</updated>
+      <workItem from="1621831229334" duration="7025000" />
+      <workItem from="1621917719076" duration="20451000" />
+      <workItem from="1622088457800" duration="13525000" />
+      <workItem from="1622439318556" duration="1732000" />
+      <workItem from="1622442197889" duration="1213000" />
+    </task>
+    <task id="LOCAL-00001" summary="com-1-init">
+      <created>1622442212503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622442212503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="com-1-init" />
+    <option name="LAST_COMMIT_MESSAGE" value="com-1-init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621835036491">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="206" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1621835036491" />
+    <state width="466" height="466" key="DebuggerActiveHint" timestamp="1621918367229">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="466" height="466" key="DebuggerActiveHint/0.0.1920.1200@0.0.1920.1200" timestamp="1621918367229" />
+    <state x="532" y="352" key="FileChooserDialogImpl" timestamp="1621835007476">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="532" y="352" key="FileChooserDialogImpl/0.0.1920.1200@0.0.1920.1200" timestamp="1621835007476" />
+    <state width="1495" height="305" key="GridCell.Tab.0.bottom" timestamp="1622442184451">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1622442184451" />
+    <state width="1495" height="305" key="GridCell.Tab.0.center" timestamp="1622442184451">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="305" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1622442184451" />
+    <state width="1495" height="305" key="GridCell.Tab.0.left" timestamp="1622442184450">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="305" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1622442184450" />
+    <state width="1495" height="305" key="GridCell.Tab.0.right" timestamp="1622442184451">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="305" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1622442184451" />
+    <state width="1495" height="541" key="GridCell.Tab.1.bottom" timestamp="1622185736959">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736959" />
+    <state width="1495" height="541" key="GridCell.Tab.1.center" timestamp="1622185736959">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736959" />
+    <state width="1495" height="541" key="GridCell.Tab.1.left" timestamp="1622185736959">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736959" />
+    <state width="1495" height="541" key="GridCell.Tab.1.right" timestamp="1622185736959">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736959" />
+    <state width="1495" height="541" key="GridCell.Tab.2.bottom" timestamp="1622185736960">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.2.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736960" />
+    <state width="1495" height="541" key="GridCell.Tab.2.center" timestamp="1622185736959">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.2.center/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736959" />
+    <state width="1495" height="541" key="GridCell.Tab.2.left" timestamp="1622185736959">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.2.left/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736959" />
+    <state width="1495" height="541" key="GridCell.Tab.2.right" timestamp="1622185736960">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1495" height="541" key="GridCell.Tab.2.right/0.0.1920.1200@0.0.1920.1200" timestamp="1622185736960" />
+    <state x="460" y="231" key="SettingsEditor" timestamp="1622441987050">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="460" y="231" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1622441987050" />
+    <state x="136" y="275" key="run.anything.popup" timestamp="1621934099485">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="136" y="275" key="run.anything.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1621934099485" />
+  </component>
+</project>
