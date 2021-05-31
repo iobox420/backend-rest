@@ -1,4 +1,4 @@
-const express = require('express')
+/*const express = require('express')
 const app = express()
 const port = process.env.PORT || 3500
 const bodyParser = require('body-parser')
@@ -14,4 +14,18 @@ routes(app)
 
 app.listen(port, () => {
     console.log(`App listen on port ${port}`);
-})
+})*/
+const http = require('http');
+
+const hostname = 'localhost';
+const port = 80;
+
+const server = http.createServer((req, res) => {
+    res.statusCode = 200;
+    res.setHeader('Content-Type', 'text/plain');
+    res.end('Hello World!\n');
+});
+
+server.listen(port, hostname, () => {
+    console.log(`Server running at http://${hostname}:${port}/`);
+});
