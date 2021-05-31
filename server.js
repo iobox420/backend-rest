@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = process.env.PORT || 3500
+const port = process.env.PORT || 80
 const bodyParser = require('body-parser')
 const passport = require('passport')
 /*const hostname = 'localhost';*/
