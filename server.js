@@ -1,8 +1,10 @@
-/*const express = require('express')
+const express = require('express')
 const app = express()
 const port = process.env.PORT || 3500
 const bodyParser = require('body-parser')
 const passport = require('passport')
+/*const hostname = 'localhost';*/
+const hostname = '185.251.88.110';
 
 app.use(bodyParser.urlencoded({extended:true}))
 app.use(bodyParser.json())
@@ -12,9 +14,11 @@ require('./middleware/passport')(passport)
 const routes = require('./settings/routes')
 routes(app)
 
-app.listen(port, () => {
+app.listen(port, hostname,() => {
     console.log(`App listen on port ${port}`);
-})*/
+})
+/*
+
 const http = require('http')
 
 const hostname = 'localhost';
@@ -29,3 +33,4 @@ const server = http.createServer((req, res) => {
 server.listen(port, hostname, () => {
     console.log(`Server running at http://${hostname}:${port}/`);
 });
+*/
