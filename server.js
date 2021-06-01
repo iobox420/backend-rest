@@ -4,7 +4,7 @@ const port = process.env.PORT || 80
 const bodyParser = require('body-parser')
 const passport = require('passport')
 /*const hostname = 'localhost';*/
-const hostname = '185.251.88.110'
+const hostname = '185.251.89.161'
 
 app.use(bodyParser.urlencoded({extended:true}))
 app.use(bodyParser.json())
