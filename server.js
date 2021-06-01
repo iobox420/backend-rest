@@ -21,7 +21,7 @@ app.listen(port, hostname,() => {
 const http = require('http')
 
 const hostname = '185.251.89.161';
-const port = 8080;
+const port = 80;
 
 const server = http.createServer((req, res) => {
     res.statusCode = 200;
