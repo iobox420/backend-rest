@@ -1,5 +1,4 @@
 'use strict'
-
 const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
 
@@ -20,6 +19,21 @@ exports.getAllUsers = (req, res) => {
     })
 
 }
+/*
+exports.getAllUsers = (req, res) => {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Headers', 'origin, content-type, accept');
+    res.setHeader("Access-Control-Allow-Methods", "*");
+    db.query('SELECT `id`, `name`, `second_name`, `email` FROM `users`', (error, rows, fields) => {
+        if(error) {
+            response.status(400, error, res)
+        } else {
+            response.status(200, rows, res)
+        }
+    })
+
+}
+*/
 
 exports.signup = (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');

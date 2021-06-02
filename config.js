@@ -4,5 +4,7 @@ module.exports = {
     USER:'root',
     PASSWORD: 'root',
     DATABASE:'express_database',
-    jwt: 'jwt-key'
+    jwt: 'jwt-key',
+    serverIp: '127.0.0.7',
+    serverPort:'80'
 }
